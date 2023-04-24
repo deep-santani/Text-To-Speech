@@ -25,3 +25,5 @@ my_entry.pack(pady=20)
 my_button= Button(root, text="Speak", command=talk)
 my_button.pack(pady=20)
 
+my_button= Button(root, text="Speak", command=talk)
+my_button.pack(pady=20)
